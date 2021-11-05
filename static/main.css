@@ -1,0 +1,20 @@
+.swal-full {
+  width: 95vw !important;
+  height: 95vh !important;
+}
+
+.swal-full .swal-content {
+  height: 100%;
+}
+
+.swal-full .swal2-title {
+  text-align: left;
+  font-size: 16px;
+  color: #545454;
+  width: 98%;
+  display: block;
+}
+
+.info-field {}
+.info-field .form-group {margin-bottom: 5%;}
+.info-field .form-group legend{margin-bottom: 0; padding-bottom: 0; color: #999; font-size: 95%;}
